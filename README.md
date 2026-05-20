@@ -1,5 +1,5 @@
 # ATIVIDADE – Lógica de Programação - INTRO-CS4 - Concepção de algoritmos e solução de problemas - Avançado
-![Portugol](https://img.shields.io/badge/Feito%20com-Portugol-1E90FF?style=for-the-badge)
+![Portugol](https://img.shields.io/badge/Feito%20com-Portugol-FFD600?style=for-the-badge&labelColor=000000&color=FFD600&logoColor=000000)
 | Exercícios (Portugol) | Status |
 |:----------:|:--------:|
 | Ex 1     | [![UML](https://img.shields.io/badge/Visualizar-green)](Exercicio1) |
