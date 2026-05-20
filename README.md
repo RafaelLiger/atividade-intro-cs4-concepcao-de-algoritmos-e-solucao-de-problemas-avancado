@@ -1,10 +1,11 @@
 # ATIVIDADE – Lógica de Programação - INTRO-CS4 - Concepção de algoritmos e solução de problemas - Avançado
 ![Portugol](https://img.shields.io/badge/Feito%20com-Portugol-FFD600?style=for-the-badge&labelColor=000000&color=FFD600&logoColor=000000)
-| Exercícios (Portugol) | Status |
+| Exercícios  | Status |
 |:----------:|:--------:|
-| Ex 1     | [![UML](https://img.shields.io/badge/Visualizar-green)](Exercicio1) |
-| Ex 2      | [![UML](https://img.shields.io/badge/Visualizar-green)](Exercicio2) |
-| Arquivos.por      | [![UML](https://img.shields.io/badge/Baixar-green)](https://raw.githubusercontent.com/RafaelLiger/atividade-intro-cs4-concepcao-de-algoritmos-e-solucao-de-problemas-avancado/main/Exercios.por/desafio-ex1.por) |
+| Ex 1     | [![visu](https://img.shields.io/badge/Visualizar-green)](Exercicio1) |
+| Ex 2      | [![visu](https://img.shields.io/badge/Visualizar-green)](Exercicio2) |
+| 💡 Arquivos | [![.por](https://img.shields.io/badge/.por-black?style=for-the-badge&labelColor=FFD600&color=FFD600)](Exercios.por) |
+
 
 ## ✍️Exercício 1
 
