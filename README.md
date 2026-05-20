@@ -4,7 +4,7 @@
 |:----------:|:--------:|
 | Ex 1     | [![UML](https://img.shields.io/badge/Visualizar-green)](Exercicio1) |
 | Ex 2      | [![UML](https://img.shields.io/badge/Visualizar-green)](Exercicio2) |
-| Arquivos.por      | [![UML](https://img.shields.io/badge/Baixar-green)](https://raw.github.com/RafaelLiger/atividade-intro-cs4-concepcao-de-algoritmos-e-solucao-de-problemas-avancado/blob/main/Exercios.por/desafio-ex1.por) |
+| Arquivos.por      | [![UML](https://img.shields.io/badge/Baixar-green)](https://raw.githubusercontent.com/RafaelLiger/atividade-intro-cs4-concepcao-de-algoritmos-e-solucao-de-problemas-avancado/main/Exercios.por/desafio-ex1.por) |
 
 ## ✍️Exercício 1
 
